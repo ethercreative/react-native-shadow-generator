@@ -1,2 +1,2 @@
-# react-native-shadow-generator
+# React Native Shadow Generator
 Because lazy
